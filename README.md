@@ -6,14 +6,9 @@
 ## NO. OF BATHROOMS - Total number of bathrooms in the property. It is optional as it almost always comes along with bedrooms and these two variables will be similar.
 ## SQUARE LOT - Exact lot size of in squarefeets.
 ## YEAR BUILT - The year on which the house is built. It helps to know the age of the house.
+## YEAR RENOVATED - The year on which the house is renovated last. It helps to know the quality of the house.
 ## NUMBER OF FLOORS - The number of floors available in the house. 
 ## WATERFRONT - Whether the property has a water frontage or not. It will ofcourse make the property luxurious.
 ## STREET - Street address of the property. It will allow to know whether the street has less crime records or not. Which will affect the house price.
 ## CITY - City name where the property is situated. An urban city will have more price than a rural city.
 
-
-
-
-
-
-street,city
