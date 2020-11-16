@@ -1,7 +1,7 @@
 # DESCRIPTION OF VARIABLES USED FOR HOUSE PRICE PREDICTION IN USA FOR NEXT 10 YEARS
 
 
-## > SQUAREFEET LIVING - Total square feet area living of a property. It is a critical variable that can cause the price variance.
+## > SQUAREFEET LIVING - Total square feet area of living space of the house. It is a critical variable that can cause the price variance.
 ## > NO. OF BEDROOMS - Total number of bedroom in the specific property.
 ## > NO. OF BATHROOMS - Total number of bathrooms in the property. It is optional as it almost always comes along with bedrooms and these two variables will be similar.
 ## > SQUARE LOT - Exact lot size of in squarefeets.
